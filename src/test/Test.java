@@ -6,4 +6,8 @@ public class Test {
 		System.out.println("bar");
 	}
 	
+	private static void foobar(){
+		System.out.println("foobar");
+	}
+	
 }
