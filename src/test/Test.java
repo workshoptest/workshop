@@ -3,7 +3,7 @@ package test;
 public class Test {
 
 	public static void foo(){
-		Feature.bar();
+		FeatureBar.bar();
 	}
 	
 	public static void foobar(){
