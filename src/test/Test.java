@@ -8,6 +8,7 @@ public class Test {
 	
 	public static void foobar(){
 		System.out.println("foobar");
+		newFeature.doSomething(3);
 	}
 	
 }
