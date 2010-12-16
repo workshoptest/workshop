@@ -2,7 +2,7 @@ package test;
 
 public class Test {
 
-	public static void foo(){
+	public static void bar(){
 		FeatureBar.bar();
 	}
 	
